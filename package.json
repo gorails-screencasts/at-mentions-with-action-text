@@ -1,0 +1,21 @@
+{
+  "name": "mentions",
+  "private": true,
+  "dependencies": {
+    "@rails/actioncable": "^6.0.0-alpha",
+    "@rails/activestorage": "^6.0.0-alpha",
+    "@rails/ujs": "^6.0.0-alpha",
+    "@rails/webpacker": "^4.0.1",
+    "bootstrap": "^4.3.1",
+    "data-confirm-modal": "^1.6.2",
+    "expose-loader": "^0.7.5",
+    "jquery": "^3.3.1",
+    "local-time": "^2.1.0",
+    "popper.js": "^1.14.7",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.2.1"
+  }
+}
