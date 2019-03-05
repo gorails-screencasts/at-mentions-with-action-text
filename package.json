@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0-alpha",
+    "@rails/actiontext": "^6.0.0-beta2",
     "@rails/activestorage": "^6.0.0-alpha",
     "@rails/ujs": "^6.0.0-alpha",
     "@rails/webpacker": "^4.0.1",
@@ -12,6 +13,8 @@
     "jquery": "^3.3.1",
     "local-time": "^2.1.0",
     "popper.js": "^1.14.7",
+    "stimulus": "^1.1.1",
+    "trix": "^1.0.0",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
