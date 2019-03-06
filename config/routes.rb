@@ -16,6 +16,7 @@ Rails.application.routes.draw do
       mount Sidekiq::Web => '/sidekiq'
     end
 
+  resources :mentions, only: [:index]
 
   resources :notifications, only: [:index]
   resources :announcements, only: [:index]

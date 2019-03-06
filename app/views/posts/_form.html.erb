@@ -18,7 +18,7 @@
 
   <div class="form-group">
     <%= form.label :body %>
-    <%= form.rich_text_area :body, class: 'form-control' %>
+    <%= form.rich_text_area :body, class: 'form-control', data: { controller: "mentions", target: "mentions.field" } %>
   </div>
 
   <div class="form-group">
