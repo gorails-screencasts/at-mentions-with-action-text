@@ -55,7 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'administrate', github: 'excid3/administrate', branch: 'zeitwerk'
 gem 'bootstrap', '~> 4.3', '>= 4.3.1'
-gem 'devise', '~> 4.6', '>= 4.6.1'
+gem 'devise', '~> 4.7'
 gem 'devise-bootstrapped', github: 'excid3/devise-bootstrapped', branch: 'bootstrap4'
 gem 'devise_masquerade', '~> 0.6.2'
 gem 'font-awesome-sass', '~> 5.6', '>= 5.6.1'
